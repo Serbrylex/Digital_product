@@ -1,0 +1,23 @@
+@media (max-width: 600px) {
+
+  .products{
+    display: inherit;
+    height: auto;
+  }
+
+  .product{
+    margin-top: auto;
+  }
+  .main-secton{
+    padding: 4%;
+  }
+  .description, .mencions-person{
+    display: inherit;
+    height: auto;
+  }
+  .mencions{
+    display: inherit;
+    height: auto;
+  }
+
+}
